@@ -11,7 +11,7 @@ Barebone node project, personal preferences.
 ## License
 The MIT License (MIT)
 
-Copyright (c) 2015 Lars Jung (http://larsjung.de)
+Copyright (c) 2015 Lars Jung (https://larsjung.de)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -32,7 +32,7 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
 
 
-[web]: http://larsjung.de/barenode/
+[web]: https://larsjung.de/barenode/
 [github]: https://github.com/lrsjng/barenode
 [npm]: https://www.npmjs.org/package/@lrsjng/barenode
 [gemnasium]: https://gemnasium.com/lrsjng/barenode
