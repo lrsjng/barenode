@@ -1,9 +1,7 @@
 # barenode
 
-<!--
 [![license][license-img]][github] [![web][web-img]][web] [![github][github-img]][github] [![npm][npm-img]][npm]  
 [![version][npm-v-img]][npm] [![downloads][npm-dm-img]][npm] [![dependencies status][gemnasium-img]][gemnasium] [![build status][travis-img]][travis]
--->
 
 Barebone node project, personal preferences.
 
@@ -34,7 +32,7 @@ THE SOFTWARE.
 
 [web]: https://larsjung.de/barenode/
 [github]: https://github.com/lrsjng/barenode
-[npm]: https://www.npmjs.org/package/@lrsjng/barenode
+[npm]: https://www.npmjs.org/package/barenode
 [gemnasium]: https://gemnasium.com/lrsjng/barenode
 [travis]: https://travis-ci.org/lrsjng/barenode
 
@@ -43,7 +41,7 @@ THE SOFTWARE.
 [github-img]: https://img.shields.io/badge/github-lrsjng/barenode-a0a060.svg?style=flat-square
 [npm-img]: https://img.shields.io/badge/npm-@lrsjng/barenode-a0a060.svg?style=flat-square
 
-[npm-v-img]: https://img.shields.io/npm/v/@lrsjng/barenode.svg?style=flat-square
-[npm-dm-img]: https://img.shields.io/npm/dm/@lrsjng/barenode.svg?style=flat-square
+[npm-v-img]: https://img.shields.io/npm/v/barenode.svg?style=flat-square
+[npm-dm-img]: https://img.shields.io/npm/dm/barenode.svg?style=flat-square
 [gemnasium-img]: https://img.shields.io/gemnasium/lrsjng/barenode.svg?style=flat-square
 [travis-img]: https://img.shields.io/travis/lrsjng/barenode.svg?style=flat-square
