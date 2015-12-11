@@ -1,7 +1,7 @@
 {
   "name": "barenode",
   "displayName": "barenode",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "description": "Barebone node project, personal preferences.",
   "homepage": "https://larsjung.de/barenode/",
   "bugs": "https://github.com/lrsjng/barenode/issues",
@@ -17,8 +17,7 @@
     "test": "node -r babel-core/register test/tests.js",
     "cover": "babel-node node_modules/.bin/isparta cover --dir coverage --report text --report html test/tests.js",
     "check": "npm run -s lint && npm run -s test",
-    "babel": "rimraf es5 && babel -d es5 lib",
-    "prepublish": "npm run -s check && npm run -s babel"
+    "build": "rimraf es5 && babel -d es5 lib"
   },
   "devDependencies": {
     "babel-cli": "6.3.17",

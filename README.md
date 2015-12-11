@@ -39,7 +39,7 @@ THE SOFTWARE.
 [license-img]: https://img.shields.io/badge/license-MIT-a0a060.svg?style=flat-square
 [web-img]: https://img.shields.io/badge/web-larsjung.de/barenode-a0a060.svg?style=flat-square
 [github-img]: https://img.shields.io/badge/github-lrsjng/barenode-a0a060.svg?style=flat-square
-[npm-img]: https://img.shields.io/badge/npm-@lrsjng/barenode-a0a060.svg?style=flat-square
+[npm-img]: https://img.shields.io/badge/npm-barenode-a0a060.svg?style=flat-square
 
 [npm-v-img]: https://img.shields.io/npm/v/barenode.svg?style=flat-square
 [npm-dm-img]: https://img.shields.io/npm/dm/barenode.svg?style=flat-square
