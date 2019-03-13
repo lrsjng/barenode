@@ -1,7 +1,7 @@
 # barenode
 
 [![license][license-img]][github] [![web][web-img]][web] [![github][github-img]][github] [![npm][npm-img]][npm]  
-[![version][npm-v-img]][npm] [![downloads][npm-dm-img]][npm] [![dependencies status][gemnasium-img]][gemnasium] [![build status][travis-img]][travis]
+[![version][npm-v-img]][npm] [![downloads][npm-dm-img]][npm] [![build status][travis-img]][travis]
 
 Barebone node project, personal preferences.
 
@@ -9,7 +9,7 @@ Barebone node project, personal preferences.
 ## License
 The MIT License (MIT)
 
-Copyright (c) 2017 Lars Jung (https://larsjung.de)
+Copyright (c) 2019 Lars Jung (https://larsjung.de)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -33,7 +33,6 @@ THE SOFTWARE.
 [web]: https://larsjung.de/barenode/
 [github]: https://github.com/lrsjng/barenode
 [npm]: https://www.npmjs.org/package/barenode
-[gemnasium]: https://gemnasium.com/lrsjng/barenode
 [travis]: https://travis-ci.org/lrsjng/barenode
 
 [license-img]: https://img.shields.io/badge/license-MIT-a0a060.svg?style=flat-square
@@ -43,5 +42,4 @@ THE SOFTWARE.
 
 [npm-v-img]: https://img.shields.io/npm/v/barenode.svg?style=flat-square
 [npm-dm-img]: https://img.shields.io/npm/dm/barenode.svg?style=flat-square
-[gemnasium-img]: https://img.shields.io/gemnasium/lrsjng/barenode.svg?style=flat-square
 [travis-img]: https://img.shields.io/travis/lrsjng/barenode.svg?style=flat-square
