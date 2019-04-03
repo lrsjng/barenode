@@ -1,6 +1,6 @@
 {
   "name": "barenode",
-  "version": "0.9.0",
+  "version": "0.10.0",
   "description": "Barebone node project, personal preferences.",
   "homepage": "https://larsjung.de/barenode/",
   "bugs": "https://github.com/lrsjng/barenode/issues",
@@ -16,7 +16,7 @@
     "precommit": "node test"
   },
   "devDependencies": {
-    "scar": "1.2.0"
+    "scar": "1.4.0"
   },
   "engines": {
     "node": ">=8.0.0"
