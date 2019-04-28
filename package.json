@@ -1,6 +1,6 @@
 {
   "name": "barenode",
-  "version": "0.10.0",
+  "version": "0.11.0",
   "description": "Barebone node project, personal preferences.",
   "homepage": "https://larsjung.de/barenode/",
   "bugs": "https://github.com/lrsjng/barenode/issues",
@@ -12,11 +12,17 @@
   },
   "main": "dist/barenode",
   "scripts": {
+    "lint": "eslint .",
     "test": "node test",
-    "precommit": "node test"
+    "check": "npm run -s lint && npm run -s test",
+    "cover": "nyc --require @babel/register --reporter text --reporter html node test",
+    "precommit": "npm run -s check"
   },
   "devDependencies": {
-    "scar": "1.4.0"
+    "@babel/core": "7.4.4",
+    "@babel/register": "7.4.4",
+    "nyc": "14.0.0",
+    "scar": "1.7.0"
   },
   "engines": {
     "node": ">=8.0.0"
